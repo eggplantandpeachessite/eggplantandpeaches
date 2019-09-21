@@ -7,7 +7,7 @@ class TailwindExtractor {
 module.exports = {
   siteName: 'Eggplant and Peaches',
   siteDescription: "A site for sharing my art, pictures and shenannigans.",
-  siteUrl: 'https://gridsome-starter-bleda.netlify.com',
+  siteUrl: 'https://festive-volhard-287716.netlify.com',
   titleTemplate: `%s | Eggplant and Peaches`,
   icon: 'src/favicon.png',
 
@@ -61,13 +61,13 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Bleda, a Gridsome blog starter',
-          feed_url: 'https://gridsome-starter-bleda.netlify.com/feed.xml',
-          site_url: 'https://gridsome-starter-bleda.netlify.com'
+          feed_url: 'https://festive-volhard-287716.netlify.com/feed.xml',
+          site_url: 'https://festive-volhard-287716.netlify.com'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.description,
-          url: 'https://gridsome-starter-bleda.netlify.com/' + node.slug,
+          url: 'https://festive-volhard-287716.netlify.com/' + node.slug,
           author: node.author,
           date: node.date
         }),
