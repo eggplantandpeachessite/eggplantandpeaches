@@ -60,7 +60,7 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Bleda, a Gridsome blog starter',
+          title: 'Eggplant and Peaches',
           feed_url: 'https://festive-volhard-287716.netlify.com/feed.xml',
           site_url: 'https://festive-volhard-287716.netlify.com'
         },
