@@ -11,6 +11,6 @@ cover: /images/posts/2019-09-21.jpg
 featuredImage: /images/posts/2019-09-21.jpg
 ---
 
-## Greetings
+# Greetings
 
-Welcome to the new abode where I can share my thoughts and content on my terms.
+Welcome to where I will share my thoughts and content, on my terms.
